@@ -25,3 +25,6 @@ erl_crash.dump
 /config/*.secret.exs
 *.swp
 *.swo
+
+# asdf
+.tool-versions
